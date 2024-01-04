@@ -1,26 +1,11 @@
 ## Table of Contents
- - [About](#elaina-v3)
+ - [About](#ryaks-v3)
  - [Features](#features)
  - [Required](#required)
  - [Installation](#installation)
 
-## Elaina-V3
-Elaina theme for Pengu Loader
-
-> Special thanks:
->  - Developers       : Me (ofc), [teiseire117](https://github.com/teisseire117)
->  - Supporters       : [teiseire117](https://github.com/teisseire117), [Nomi-san](https://github.com/nomi-san), [controlado](https://github.com/controlado), [Sarah Engel](https://github.com/PrincessAkira), [Yurichtofen](https://github.com/Yurichtofen), [Legnatbird](https://github.com/Legnatbird), [Dmitry Nemykin](https://github.com/DmitryFisk)
->  - Theme Optimizers : [Yurichtofen](https://github.com/Yurichtofen)
->  - Translators      : 
->    + English : (A lot)
->    + Vietnamese : Me ._.
->    + Japanese   : [Google translate](https://translate.google.com/)
->    + Polish     : [Yurichtofen](https://github.com/Yurichtofen)
->    + Russian    : [Flirip](https://github.com/Flirip)
->    + Spanish    : [Legnatbird](https://github.com/Legnatbird)
->    + Chinese    : []()
->    + Korean     : []()
-
+## ryaks-V3
+ryaks theme for Pengu Loader
 
  - Highest Wallpaper resolution (For strong device only): [Download](https://drive.google.com/drive/folders/1wvNF18fM9QkzE-a0aBDvJQjB36lWcFbU?usp=sharing)
 
@@ -40,4 +25,4 @@ Elaina theme for Pengu Loader
 > Recommended: Windows 10/11, Intel Core I5 9400 // 16gb ram // NVIDIA GTX1050 Ti and Higher
  
 ## Installation:
- - Read our [wiki](https://github.com/Elaina69/Elaina-V3/wiki) pages
+ - Read our [wiki](https://github.com/ryaks69/ryaks-V3/wiki) pages
