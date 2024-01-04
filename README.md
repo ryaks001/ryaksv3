@@ -1,11 +1,11 @@
 ## Table of Contents
- - [About](#elaina-v3)
+ - [About](#ryaks-v3)
  - [Features](#features)
  - [Required](#required)
  - [Installation](#installation)
 
-## Elaina-V3
-Elaina theme for Pengu Loader
+## ryaks-V3
+ryaks theme for Pengu Loader
 
 > Special thanks:
 >  - Developers       : Me (ofc), [teiseire117](https://github.com/teisseire117)
@@ -40,4 +40,4 @@ Elaina theme for Pengu Loader
 > Recommended: Windows 10/11, Intel Core I5 9400 // 16gb ram // NVIDIA GTX1050 Ti and Higher
  
 ## Installation:
- - Read our [wiki](https://github.com/Elaina69/Elaina-V3/wiki) pages
+ - Read our [wiki](https://github.com/ryaks69/ryaks-V3/wiki) pages
