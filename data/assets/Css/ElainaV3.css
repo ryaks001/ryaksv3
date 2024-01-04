@@ -1,4 +1,4 @@
-/* By Elaina Da Catto */
+/* By Ryaks Da Catto */
 /* Meow~~~ */
 
 
@@ -6,8 +6,8 @@
 /*_________________________________________________________________________________________________________________________________*/
 :root {
 
-	--font-display: 'Custom', 'LoL Display', 'Elaina', 'Times New Roman', Times, Baskerville, Georgia, serif !important;
-	--font-body: 'Custom', 'LoL Body', 'Elaina', Arial, 'Helvetica Neue', Helvetica, sans-serif !important; 
+	--font-display: 'Custom', 'LoL Display', 'Ryaks', 'Times New Roman', Times, Baskerville, Georgia, serif !important;
+	--font-body: 'Custom', 'LoL Body', 'Ryaks', Arial, 'Helvetica Neue', Helvetica, sans-serif !important; 
 
 	--social-sidebar-bg-color: linear-gradient(rgb(6 6 6), rgb(0 0 0 / 25%));
 
@@ -352,7 +352,7 @@ lol-social-roster-member .offline .member-name {
 	filter: grayscale(1) saturate(0) brightness(0.5) !important;
 }
 
-#elaina-bg:has(+ #rcp-fe-viewport-root .parties-background) {
+#Ryaks-bg:has(+ #rcp-fe-viewport-root .parties-background) {
 	filter: brightness(0.4) !important;
 }
 
@@ -394,7 +394,7 @@ div[data-screen-name="rcp-fe-lol-tft"] .tft-sub-nav-container {
 
 /*_________________________________________________________________________________________________________________________________*/
 
-#elaina-bg {
+#Ryaks-bg {
 	width:100%;
 	height: 100%;
 	position: absolute;
@@ -629,7 +629,7 @@ div[data-screen-name="rcp-fe-lol-tft"] .tft-sub-nav-container {
 
 
 
-/* ElainaTrigger */
+/* RyaksTrigger */
 .watermark {
 	margin: 4px !important;
 	color: #cdbe91 !important;
@@ -643,25 +643,25 @@ div[data-screen-name="rcp-fe-lol-tft"] .tft-sub-nav-container {
 	position:absolute;
 }
 
-.Elaina1ImageCon {
+.Ryaks1ImageCon {
 	display: flex;
     bottom: -4px;
     right: 130px;
 	position:absolute
 }
 
-.Elaina1TextCon {
+.Ryaks1TextCon {
 	display: flex;
     bottom: 260px;
     right: 303px;
 	position:absolute
 }
 
-.Elaina1Image {
+.Ryaks1Image {
 	width: 650px !important;
 }
 
-.Elaina1Text {
+.Ryaks1Text {
 	margin: 4px !important;
 	color: rgb(129 185 224) !important;
 	text-align: center !important;
@@ -959,7 +959,7 @@ div[data-screen-name="rcp-fe-lol-tft"] .tft-sub-nav-container {
 	cursor: pointer;
 }
 
-.Elaina-Update {
+.Ryaks-Update {
 	text-align: left;
 	overflow-wrap: break-word;
 }

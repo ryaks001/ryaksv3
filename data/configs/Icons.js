@@ -1,7 +1,7 @@
 const data = {
     //______________________________________________________________________________//
 
-    "Animation-logo": "ElainaFly.gif",
+    "Animation-logo": "RyaksFly.gif",
     "Static-logo"   : "Logo.png",
 
     "Avatar"        : "Avatar.gif",
@@ -10,7 +10,7 @@ const data = {
     "Hover-card"    : "Hover-card-backdrop.jpg",
 
     "RP-icon"       : "ApprenticeWitch.png",
-    "BE-icon"       : "ElainaStare.png",
+    "BE-icon"       : "RyaksStare.png",
 
     "Rank-icon"     : "Rank.png",
     "Honor"         : "emblem_5.png",
@@ -19,7 +19,7 @@ const data = {
 
     "Ticker"        : "ticker.png",
     
-    "Mouse-cursor"  : "ElainaDed.png",
+    "Mouse-cursor"  : "RyaksDed.png",
 
     //Runes
     "Precision"  : "8000.jpg",
