@@ -54,7 +54,7 @@ setDefaultData({
 	"ChampsPrice"					: 450,
 	"buy-all-champs"				: true,
 	"Name-Spoofer"					: false,
-	"Spoof-name"					: "Ryaks Da Catto",
+	"Spoof-name"					: "r y",
 	"Dev-mode"						: false,
 	"Custom-rank"					: true,
 	"Runes-BG"						: true,
