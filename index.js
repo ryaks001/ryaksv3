@@ -1,6 +1,6 @@
 /**
  * @name RyaksV3
- * @author Ryaks Da Catto
+ * @author Ryaks
  * @description Ryaks theme 3rd Generation for Pengu Loader
  * @link https://github.com/Ryaks69
  * @Nyan Meow~~~
@@ -9,7 +9,7 @@
 let eConsole = "%c RyaksV3 "
 let eCss = "color: #ffffff; background-color: #f77fbe"
 
-console.log(eConsole+'%c By %cRyaks Da Catto',eCss,"", "color: #e4c2b3")
+console.log(eConsole+'%c By %cRyaks',eCss,"", "color: #e4c2b3")
 console.log(eConsole+'%c Meow ~~~',eCss, "color: #e4c2b3")
 
 export function getPluginsName() {
