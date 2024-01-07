@@ -14,17 +14,17 @@ if (DataStore.get("Dev-mode")) {
 	else {console.warn(eConsole+`%c File doesn't exist`,eCss,"")}
 }
 else {
-	let res = await fetch("https://unpkg.com/Ryaksv3-data@latest/data/configs/UpdateKey-CDN.js")
+	let res = await fetch("https://unpkg.com/ryaksv3-data@3.0.0/data/configs/UpdateKey-CDN.js")
 	if (res.status == 200) {
-		CdnKey = (await (() => import("https://unpkg.com/Ryaksv3-data@latest/data/configs/UpdateKey-CDN.js"))()).default
+		CdnKey = (await (() => import("https://unpkg.com/ryaksv3-data@3.0.0/data/configs/UpdateKey-CDN.js"))()).default
 	}
 	else {console.warn(eConsole+`%c File doesn't exist`,eCss,"")}
 }
 
 if (CdnKey == LocalKey) {
-	let res = await fetch("https://unpkg.com/Ryaksv3-data@latest/data/configs/Version.js")
+	let res = await fetch("https://unpkg.com/ryaksv3-data@3.0.0/data/configs/Version.js")
 	if (res.status == 200) {
-		thisVersion = (await (() => import("https://unpkg.com/Ryaksv3-data@latest/data/configs/Version.js"))()).default
+		thisVersion = (await (() => import("https://unpkg.com/ryaksv3-data@3.0.0/data/configs/Version.js"))()).default
 		DataStore.set("Theme-version", thisVersion)
 	}
 	else {console.warn(eConsole+`%c Failed to get version number`,eCss,"")}
@@ -32,15 +32,15 @@ if (CdnKey == LocalKey) {
 
 try  {
 	if (DataStore.get("Dev-mode")) {
-		let res = await fetch(`//plugins/${getPluginsName()}/RyaksV3-Data/data/configs/Language.js`)
+		let res = await fetch(`//plugins/${getPluginsName()}/ryaksv3-data/data/configs/Language.js`)
 		if (res.status == 200) {
-			lang = (await (() => import(`//plugins/${getPluginsName()}/RyaksV3-Data/data/configs/Language.js`))()).default
+			lang = (await (() => import(`//plugins/${getPluginsName()}/ryaksv3-data/data/configs/Language.js`))()).default
 		}
 	}
 	else {
-		let res = await fetch("https://unpkg.com/Ryaksv3-data@latest/data/configs/Language.js")
+		let res = await fetch("https://unpkg.com/ryaksv3-data/data/configs/Language.js")
 		if (res.status == 200) {
-			lang = (await (() => import("https://unpkg.com/Ryaksv3-data@latest/data/configs/Language.js"))()).default
+			lang = (await (() => import("https://unpkg.com/ryaksv3-data/data/configs/Language.js"))()).default
 		}
 	}
 }
@@ -107,7 +107,7 @@ async function createLoaderMenu(root) {
 										</div>
 										<hr class="heading-spacer" />
 										<p style="padding: 20px 0" class="lol-settings-code-of-conduct-link lol-settings-window-size-text">
-											<a href="https://github.com/Ryaks69/Ryaks-V3/releases" target="_blank">${_t['l.theme_releases']}</a>
+											<a href="https://github.com/ryaks001/ryakstheme/releases/tag/Thema" target="_blank">${_t['l.theme_releases']}</a>
 										</p>
 									</div>
 								</lol-uikit-content-block>
