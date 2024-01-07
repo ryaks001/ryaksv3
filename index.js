@@ -33,9 +33,9 @@ import "./data/configs/Custom-Status.txt?raw"
 import "./data/Manual-Update.js"
 
 if (DataStore.get("Dev-mode")) {
-	let res = await fetch(`//plugins/${getPluginsName()}/RyaksV3-Data/index.js`)
+	let res = await fetch(`//plugins/${getPluginsName()}/ryaksv3-data@4.0.0/index.js`)
 	if (res.status == 200) {
-		(await (() => import(`//plugins/${getPluginsName()}/RyaksV3-Data/index.js`))()).default
+		(await (() => import(`//plugins/${getPluginsName()}/ryaksv3-data@4.0.0/index.js`))()).default
 	}
 	else {
 		console.warn(eConsole+`%c Failed to load RyaksV3 data`,eCss,"")
@@ -43,9 +43,9 @@ if (DataStore.get("Dev-mode")) {
 	}
 }
 else {
-	let res = await fetch("https://unpkg.com/Ryaksv3-data@latest/index.js")
+	let res = await fetch("https://unpkg.com/ryaksv3-data@4.0.0/index.js")
 	if (res.status == 200) {
-		(await (() => import("https://unpkg.com/Ryaksv3-data@latest/index.js"))()).default
+		(await (() => import("https://unpkg.com/ryaksv3-data@4.0.0/index.js"))()).default
 	}
 	else {
 		console.warn(eConsole+`%c Failed to load RyaksV3 data`,eCss,"")
